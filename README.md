@@ -7,7 +7,7 @@ Welcome to the **Blinkit Grocery Analysis Dashboard** – a comprehensive Power 
 
 ## 📈 Dashboard Preview
 
-![Blinkit Grocery Analysis Dashboard](dashboard_preview.jpg)
+![Blinkit_Grocery](Blinkit_Grocery.png)
 
 ---
 
